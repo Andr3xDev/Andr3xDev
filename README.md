@@ -11,6 +11,15 @@ I am motivated by challenges that require critical thinking and creativity, and 
 
 <br>
 
+<p style="text-align: center;">
+  <img src="https://img.shields.io/badge/Microsoft-0078D6?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
+  <a href="https://seulink.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
+ 
 <center>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)         ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)          ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
