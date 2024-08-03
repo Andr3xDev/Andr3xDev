@@ -6,6 +6,13 @@
 ## About me:
 
 <p style="text-align: center;">
+  <img src="https://img.shields.io/badge/Microsoft-0078D6?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
+  <a href="https://seulink.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
+  </a>
+</p>
+
  
 <center>
 
@@ -13,7 +20,6 @@
 
 </center>
 
-</p>
 
 I am an ... <!-- Pendiente a que se me ocurra como describirme jasjasjasjs -->
 
