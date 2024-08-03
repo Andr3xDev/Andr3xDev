@@ -10,15 +10,6 @@ I am a student of Systems Engineering and Statistical Engineering, with a great 
 I am motivated by challenges that require critical thinking and creativity, and I am always seeking opportunities to broaden my horizons and apply my skills to real-world projects.
 
 <br>
-
-<p style="text-align: center;">
-  <img src="https://img.shields.io/badge/Microsoft-0078D6?style=for-the-badge&logo=Microsoft&logoColor=white" alt="Windows">
-  <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
-  <a href="https://seulink.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
-  </a>
-</p>
-
  
 <center>
 
