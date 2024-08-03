@@ -1,7 +1,6 @@
 <h1 align="center" > Hi, I am Andrés Chavarro 👋</h1>
 <!-- Esto se va a cambiar por un gif que haga la misma funcion y sea mas yo-->
 
----
 <!-- Zona de about me -->
 # About me:
 
@@ -10,7 +9,22 @@ I am a student of Systems Engineering and Statistical Engineering, with a great 
 I am motivated by challenges that require critical thinking and creativity, and I am always seeking opportunities to broaden my horizons and apply my skills to real-world projects.
 
 <br>
- 
+
+
+<p align="center">
+  <a href="https://seulink.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://seulink.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://seulink.com">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
+  </a>
+</p>
+
+<br>
+
 <center>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://seulink.com)         ![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)          ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
