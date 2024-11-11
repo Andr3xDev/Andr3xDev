@@ -25,7 +25,6 @@ I am motivated by challenges that require critical thinking and creativity, and 
 
 <br>
 
----
 <!-- Skills and tools -->
 
 # What i know:
