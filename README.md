@@ -12,13 +12,13 @@ I am motivated by challenges that require critical thinking and creativity, and 
 
 
 <p align="center">
-  <a href="https://seulink.com">
+  <a href="https://google.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://seulink.com">
+  <a href="https://co.linkedin.com/in/andr%C3%A9s-felipe-chavarro-plazas-448ab01ab">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://seulink.com">
+  <a href="https://www.hackerrank.com/profile/andrexyhd09">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
   </a>
 </p>
