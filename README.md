@@ -55,9 +55,7 @@ I am motivated by challenges that require critical thinking and creativity, and 
 
 ### Frameworks / Librarys:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
-</p>
+
 
 
 <br>
