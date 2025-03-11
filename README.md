@@ -4,7 +4,7 @@
 <!-- Zona de about me -->
 # About me:
 
-I am a student of Systems Engineering and Statistical Engineering, with a great passion for continuous learning and the development of both technical and analytical skills. My education has provided me with a solid foundation in programming, data analysis, and information systems.
+I am a student of Systems Engineering, with a great passion for continuous learning and the development of both technical and analytical skills. My education has provided me with a solid foundation in programming, data analysis, and information systems.
 
 I am motivated by challenges that require critical thinking and creativity, and I am always seeking opportunities to broaden my horizons and apply my skills to real-world projects.
 <!--
@@ -55,8 +55,9 @@ I am motivated by challenges that require critical thinking and creativity, and 
 
 ### Frameworks / Librarys:
 
-
-
+<p align="center"> 
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+</p>
 
 <br>
 
@@ -71,7 +72,6 @@ I am motivated by challenges that require critical thinking and creativity, and 
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
   <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox">
 </p>
-
 
 <br>
 
