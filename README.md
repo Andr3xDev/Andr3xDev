@@ -10,6 +10,8 @@ I enjoy building from scratch, automating tasks, exploring new tools, and contri
 <br>
 
 <p align="center">
+<!-- Linkedin no disponible -->
+  
   <!--
   <a href="https://google.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
@@ -49,7 +51,7 @@ I enjoy building from scratch, automating tasks, exploring new tools, and contri
 
 
 ### Database:
-
+<!-- Oracle no disponible -->
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle">
@@ -70,10 +72,10 @@ I enjoy building from scratch, automating tasks, exploring new tools, and contri
 
 
 ### Tools:
-
+<!-- AWS no disponible -->
 <p align="center">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirutalBox">
   <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
@@ -83,10 +85,10 @@ I enjoy building from scratch, automating tasks, exploring new tools, and contri
 <br>
 
 ### Other things I love:
-
+<!-- VScode no disponible -->
 <p align="center">
   <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch">
-  <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=VScodium&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim">
   <img src="http://img.shields.io/badge/IntelliJIDEA-271833?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
 </p>
