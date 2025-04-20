@@ -1,28 +1,32 @@
 <h1 align="center" > Hi, I am Andrés Chavarro 👋</h1>
 <!-- Esto se va a cambiar por un gif que haga la misma funcion y sea mas yo-->
 
-<!-- Zona de about me -->
-# About me:
-
-I am a student of Systems Engineering, with a great passion for continuous learning and the development of both technical and analytical skills. My education has provided me with a solid foundation in programming, data analysis, and information systems.
-
-I am motivated by challenges that require critical thinking and creativity, and I am always seeking opportunities to broaden my horizons and apply my skills to real-world projects.
-<!--
 <br>
 
+Systems Engineering student at Escuela Colombiana de Ingeniería Julio Garavito, passionate about technology and everything related to computing. I love programming, hardware, Linux, open source, system customization, and learning how things work under the hood.
+
+I enjoy building from scratch, automating tasks, exploring new tools, and contributing to open source. Always looking for new challenges and ways to grow as a developer.
+
+<br>
 
 <p align="center">
+  <!--
   <a href="https://google.com">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
   </a>
+  -->
+  
   <a href="https://co.linkedin.com/in/andr%C3%A9s-felipe-chavarro-plazas-448ab01ab">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  
+  <!--
   <a href="https://www.hackerrank.com/profile/andrexyhd09">
     <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
   </a>
+  -->
 </p>
--->
+
 <br>
 
 <!-- Skills and tools -->
@@ -34,6 +38,8 @@ I am motivated by challenges that require critical thinking and creativity, and 
 <p align="center">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown" alt="Markdown">
@@ -46,7 +52,7 @@ I am motivated by challenges that require critical thinking and creativity, and 
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle">
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
@@ -56,7 +62,8 @@ I am motivated by challenges that require critical thinking and creativity, and 
 ### Frameworks / Librarys:
 
 <p align="center"> 
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
 </p>
 
 <br>
@@ -66,24 +73,30 @@ I am motivated by challenges that require critical thinking and creativity, and 
 
 <p align="center">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="http://img.shields.io/badge/IntelliJIDEA-E72E64?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
-  <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirutalBox">
+  <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-  <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="Firefox">
 </p>
 
 <br>
 
----
-Made by Andr3xDev
+### Other things I love:
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch">
+  <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim">
+  <img src="http://img.shields.io/badge/IntelliJIDEA-271833?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+</p>
 
+<br>
 
 <!-- 
 Algunas cosas salen de estos repos:
 
 https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md
-
+https://github.com/alexandresanlim/Badges4-README.md-Profile
 https://dev.to/envoy_/150-badges-for-github-pnk
  -->
