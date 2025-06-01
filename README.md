@@ -1,5 +1,8 @@
-<h1 align="center" > Hi, I am Andrés Chavarro 👋</h1>
-<!-- Esto se va a cambiar por un gif que haga la misma funcion y sea mas yo-->
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+JetBrains+Mono&weight=700&size=35&letterSpacing=&duration=2000&pause=3000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&lines=%3C+%C2%A1Hola!+Soy+Andr%C3%A9s+%F0%9F%91%8B+%2F%3E)](https://git.io/typing-svg)
+
+</div>
 
 <br>
 
