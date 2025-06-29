@@ -68,7 +68,10 @@ I enjoy building from scratch, automating tasks, exploring new tools, and contri
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJs">
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="Spring security">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
 </p>
 
 <br>
@@ -80,9 +83,9 @@ I enjoy building from scratch, automating tasks, exploring new tools, and contri
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white" alt="VirutalBox">
-  <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware">
+  <img src="https://img.shields.io/badge/Vite-331e33?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
 </p>
 
@@ -93,8 +96,8 @@ I enjoy building from scratch, automating tasks, exploring new tools, and contri
 <p align="center">
   <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch">
   <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=VScodium&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Gemini-303030?style=for-the-badge&logo=googlegemini&logoColor=1e8dfe" alt="Gemini">
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim">
-  <img src="http://img.shields.io/badge/IntelliJIDEA-271833?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
 </p>
 
 <br>
