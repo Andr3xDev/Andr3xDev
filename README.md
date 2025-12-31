@@ -20,6 +20,7 @@
 </a>
 
 <br>
+<br>
 
 <h3><code>$ cat ./stack/development</code></h3>
 <p>
