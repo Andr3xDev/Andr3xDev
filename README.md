@@ -1,111 +1,52 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=+JetBrains+Mono&weight=700&size=35&letterSpacing=&duration=2000&pause=3000&color=FFFFFF&background=0D1117&center=true&vCenter=true&width=600&lines=%3C+%C2%A1Hola!+Soy+Andr%C3%A9s+%F0%9F%91%8B+%2F%3E)](https://git.io/typing-svg)
+![eb50875a68b04b0480fa929af2c7547c-ezgif com-crop](https://github.com/user-attachments/assets/b65f0e21-cce1-4a64-a068-a2ac808304a5)
+
+<h3><code>$ whoami</code></h3>
+<p align="center">
+  > Passionate about technology.<br>
+  > Software Developer & Open Source Enthusiast.<br>
+  > Loves <strong>Cloud Computing</strong>, <strong>Homelabs</strong>, and building <strong>Scalable Systems</strong>.
+</p>
+
+<a href="https://co.linkedin.com/in/andr%C3%A9s-felipe-chavarro-plazas-448ab01ab">
+    <img src="https://img.shields.io/badge/Contact_me-282828?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<br>
+
+<h3><code>$ cat ./stack/development</code></h3>
+<p>
+  <img src="https://img.shields.io/badge/Java-282828?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java"/>
+  <img src="https://img.shields.io/badge/Spring-282828?style=for-the-badge&logo=spring&logoColor=6DB33F" alt="Spring"/>
+  <img src="https://img.shields.io/badge/React-282828?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-282828?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-282828?style=for-the-badge&logo=postgresql&logoColor=4169E1" />
+  <br>
+  <img src="https://img.shields.io/badge/NestJS-282828?style=for-the-badge&logo=nestjs&logoColor=E0234E" alt="NestJS"/>
+  <img src="https://img.shields.io/badge/Python-282828?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
+  <img src="https://img.shields.io/badge/Shell_Script-282828?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25" alt="Shell"/>
+  <img src="https://img.shields.io/badge/Vite-282828?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Redis-282828?style=for-the-badge&logo=redis&logoColor=DC382D" />
+</p>
+
+<h3><code>$ cat ./stack/cloud_infra</code></h3>
+<p>
+  <img src="https://img.shields.io/badge/AWS-282828?style=for-the-badge&logo=cloudflare&logoColor=FF9900" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Docker-282828?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-282828?style=for-the-badge&logo=kubernetes&logoColor=326CE5" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/Proxmox-282828?style=for-the-badge&logo=proxmox&logoColor=E57000" alt="Proxmox"/>
+</p>
+
+<h3><code>$ cat ./stack/favorite_tools</code></h3>
+<p>
+  <img src="https://img.shields.io/badge/Arch_Linux-282828?style=for-the-badge&logo=arch-linux&logoColor=1793D1" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/Git-282828?style=for-the-badge&logo=git&logoColor=F05032" alt="Git"/>
+  <img src="https://img.shields.io/badge/VS_Code-282828?style=for-the-badge&logo=codecrafters&logoColor=52D3DE" alt="VSCode"/>
+  <img src="https://img.shields.io/badge/Neovim-282828?style=for-the-badge&logo=neovim&logoColor=57A143" />
+  <br>
+  <img src="https://img.shields.io/badge/Gemini-282828?style=for-the-badge&logo=google-gemini&logoColor=1e8dfe" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/Claude-282828?style=for-the-badge&logo=claude&logoColor=D97757" alt="Claude"/>
+</p>
 
 </div>
-
-<br>
-
-Systems Engineering student at Escuela Colombiana de Ingeniería Julio Garavito, passionate about technology and everything related to computing. I love programming, hardware, Linux, open source, system customization, and learning how things work under the hood.
-
-I enjoy building from scratch, automating tasks, exploring new tools, and contributing to open source. Always looking for new challenges and ways to grow as a developer.
-
-<br>
-
-<p align="center">
-<!-- Linkedin no disponible -->
-  
-  <!--
-  <a href="https://google.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
-  </a>
-  -->
-  
-  <a href="https://co.linkedin.com/in/andr%C3%A9s-felipe-chavarro-plazas-448ab01ab">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-  
-  <!--
-  <a href="https://www.hackerrank.com/profile/andrexyhd09">
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Hackerrank">
-  </a>
-  -->
-</p>
-
-<br>
-
-<!-- Skills and tools -->
-
-# What i know:
-
-### Languages:
-
-<p align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown" alt="Markdown">
-</p>
-
-<br>
-
-
-### Database:
-<!-- Oracle no disponible -->
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle">
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-</p>
-
-<br>
-
-
-### Frameworks / Librarys:
-
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJs">
-  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white" alt="Spring security">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind">
-</p>
-
-<br>
-
-
-### Tools:
-<!-- AWS no disponible -->
-<p align="center">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Vite-331e33?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white" alt="VMware">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</p>
-
-<br>
-
-### Other things I love:
-<!-- VScode no disponible -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Arch-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch">
-  <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=VScodium&logoColor=white" alt="VS Code">
-  <img src="https://img.shields.io/badge/Gemini-303030?style=for-the-badge&logo=googlegemini&logoColor=1e8dfe" alt="Gemini">
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="NeoVim">
-</p>
-
-<br>
-
-<!-- 
-Algunas cosas salen de estos repos:
-
-https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md
-https://github.com/alexandresanlim/Badges4-README.md-Profile
-https://dev.to/envoy_/150-badges-for-github-pnk
- -->
