@@ -1,6 +1,12 @@
 <div align="center">
 
-![eb50875a68b04b0480fa929af2c7547c-ezgif com-crop](https://github.com/user-attachments/assets/b65f0e21-cce1-4a64-a068-a2ac808304a5)
+<div align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/a554943a-764e-4c1b-939c-a56a9f788eeb" 
+    alt="Banner" 
+    width="60%" 
+  />
+</div>
 
 <h3><code>$ whoami</code></h3>
 <p align="center">
