@@ -4,7 +4,7 @@
   <img 
     src="https://github.com/user-attachments/assets/a554943a-764e-4c1b-939c-a56a9f788eeb" 
     alt="Banner" 
-    width="60%" 
+    width="70%" 
   />
 </div>
 
